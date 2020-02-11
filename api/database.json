@@ -1,0 +1,22 @@
+{
+    "teams": [
+        {
+            "id": 1,
+            "name": "Chargers",
+            "sport": "Competitive Swimming",
+            "coaches": "Kevin, Tom"
+        },
+        {
+            "id": 2,
+            "name": "Wildcats",
+            "sport": "Competitive Swimming",
+            "coaches": "Kevin, Pat"
+        },
+        {
+            "id": 3,
+            "name": "Bobcats",
+            "sport": "Baseball",
+            "coaches": "Jack, Pat"
+        }
+    ]
+}

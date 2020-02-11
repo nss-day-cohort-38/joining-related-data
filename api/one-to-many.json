@@ -1,0 +1,32 @@
+{
+    "sports": [
+        {
+            "id": 1,
+            "type": "Competitive Swimming"
+        },
+        {
+            "id": 2,
+            "type": "Baseball"
+        }
+    ],
+    "teams": [
+        {
+            "id": 1,
+            "name": "Chargers",
+            "sportId": 1,
+            "coaches": "Kevin, Tom"
+        },
+        {
+            "id": 2,
+            "name": "Wildcats",
+            "sportId": 1,
+            "coaches": "Kevin, Pat"
+        },
+        {
+            "id": 3,
+            "name": "Bobcats",
+            "sportId": 2,
+            "coaches": "Jack, Pat"
+        }
+    ]
+}

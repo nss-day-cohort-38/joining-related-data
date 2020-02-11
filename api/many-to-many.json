@@ -1,0 +1,79 @@
+{
+    "sports": [
+        {
+            "id": 1,
+            "type": "Swimming"
+        },
+        {
+            "id": 2,
+            "type": "Baseball"
+        }
+    ],
+    "teams": [
+        {
+            "id": 1,
+            "name": "Chargers",
+            "sportId": 1
+        },
+        {
+            "id": 2,
+            "name": "Wildcats",
+            "sportId": 1
+        },
+        {
+            "id": 3,
+            "name": "Bobcats",
+            "sportId": 2
+        }
+    ],
+    "coaches": [
+        {
+            "id": 1,
+            "name": "Kevin"
+        },
+        {
+            "id": 2,
+            "name": "Tom"
+        },
+        {
+            "id": 3,
+            "name": "Pat"
+        },
+        {
+            "id": 4,
+            "name": "Jack"
+        }
+    ],
+    "teamCoaches": [
+        {
+            "id": 1,
+            "teamId": 1,
+            "coachId": 1
+        },
+        {
+            "id": 2,
+            "teamId": 1,
+            "coachId": 2
+        },
+        {
+            "id": 3,
+            "teamId": 2,
+            "coachId": 1
+        },
+        {
+            "id": 4,
+            "teamId": 2,
+            "coachId": 3
+        },
+        {
+            "id": 5,
+            "teamId": 3,
+            "coachId": 4
+        },
+        {
+            "id": 6,
+            "teamId": 3,
+            "coachId": 3
+        }
+    ]
+}
